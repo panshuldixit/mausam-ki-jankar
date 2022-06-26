@@ -1,2 +1,2 @@
-# mausam-ki-jankar
+# mausam-ki-jankari
 Weather App. Will be updating soon.
